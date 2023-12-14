@@ -25,7 +25,22 @@ namespace Estacionamento_DIO.Models
         }
         public void RemoverVeiculos()
         {
+            Console.Write("Digite a placa do Veiculo a ser removido: ");
+            string placa = Console.ReadLine();
 
+            if (Veiculos.Remove(placa))
+            {   
+                Console.Write("Digite o valor de hora(s) estacionado: ");
+                double.TryParse(Console.ReadLine(), out double horasEstacionado);
+                
+                double valorTotal = precoInicial + (precoHora * horasEstacionado);
+
+                Console.WriteLine($"O veiculo {placa} foi removido e seu valor total {valorTotal:C}.");
+            }
+            else
+            {
+                Console.WriteLine($"Veículo com placa {placa} não encontrado na lista.");
+            }
         }
         public void ListarVeiculos()
         {
