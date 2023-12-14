@@ -1,0 +1,15 @@
+C:\Users\Raphael\Desktop\Dio git e GitHub\dio-resumos-git-e-github\Estacionamento DIO\bin\Debug\net8.0\Estacionamento DIO.exe
+C:\Users\Raphael\Desktop\Dio git e GitHub\dio-resumos-git-e-github\Estacionamento DIO\bin\Debug\net8.0\Estacionamento DIO.deps.json
+C:\Users\Raphael\Desktop\Dio git e GitHub\dio-resumos-git-e-github\Estacionamento DIO\bin\Debug\net8.0\Estacionamento DIO.runtimeconfig.json
+C:\Users\Raphael\Desktop\Dio git e GitHub\dio-resumos-git-e-github\Estacionamento DIO\bin\Debug\net8.0\Estacionamento DIO.dll
+C:\Users\Raphael\Desktop\Dio git e GitHub\dio-resumos-git-e-github\Estacionamento DIO\bin\Debug\net8.0\Estacionamento DIO.pdb
+C:\Users\Raphael\Desktop\Dio git e GitHub\dio-resumos-git-e-github\Estacionamento DIO\obj\Debug\net8.0\Estacionamento DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\Desktop\Dio git e GitHub\dio-resumos-git-e-github\Estacionamento DIO\obj\Debug\net8.0\Estacionamento DIO.AssemblyInfoInputs.cache
+C:\Users\Raphael\Desktop\Dio git e GitHub\dio-resumos-git-e-github\Estacionamento DIO\obj\Debug\net8.0\Estacionamento DIO.AssemblyInfo.cs
+C:\Users\Raphael\Desktop\Dio git e GitHub\dio-resumos-git-e-github\Estacionamento DIO\obj\Debug\net8.0\Estacionamento DIO.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\Dio git e GitHub\dio-resumos-git-e-github\Estacionamento DIO\obj\Debug\net8.0\Estacionamento DIO.sourcelink.json
+C:\Users\Raphael\Desktop\Dio git e GitHub\dio-resumos-git-e-github\Estacionamento DIO\obj\Debug\net8.0\Estacionamento DIO.dll
+C:\Users\Raphael\Desktop\Dio git e GitHub\dio-resumos-git-e-github\Estacionamento DIO\obj\Debug\net8.0\refint\Estacionamento DIO.dll
+C:\Users\Raphael\Desktop\Dio git e GitHub\dio-resumos-git-e-github\Estacionamento DIO\obj\Debug\net8.0\Estacionamento DIO.pdb
+C:\Users\Raphael\Desktop\Dio git e GitHub\dio-resumos-git-e-github\Estacionamento DIO\obj\Debug\net8.0\Estacionamento DIO.genruntimeconfig.cache
+C:\Users\Raphael\Desktop\Dio git e GitHub\dio-resumos-git-e-github\Estacionamento DIO\obj\Debug\net8.0\ref\Estacionamento DIO.dll
