@@ -1,4 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using Estacionamento_DIO.Models;
+Console.OutputEncoding = System.Text.Encoding.UTF8;
 Console.Clear();
 Console.WriteLine("Seja bem vindo ao sistema de estacionamento!");
 
@@ -8,6 +10,7 @@ double.TryParse(Console.ReadLine(), out double precoInicial);
 Console.Write("Digite o preço por hora: ");
 double.TryParse(Console.ReadLine(), out double precoHora);
 
+Estacionamento es = new Estacionamento(precoInicial, precoHora);
 Console.Clear();
 
 int opcao = 0;
@@ -25,15 +28,15 @@ do
     switch(opcao)
     {
         case 1: 
-            Console.Write("Digite a placa do veiculo para adcionar: ");
+            es.AdicionarVeiculos();
             break;
 
         case 2:
-            Console.Write("Digite a placa do veiculo para remover: ");
+            es.RemoverVeiculos();
             break;
 
         case 3:
-            Console.Write("Lista de veiculos estacionados");
+            es.ListarVeiculos();
             break;
 
         case 4:
